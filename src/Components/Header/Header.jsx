@@ -1,10 +1,10 @@
 import "./Header.css";
 import Netflixlogo from "../../assets/vite.svg";
 // import Netflixlogo from " .. / .. /assets/images/NetflixLogo.png"
-// import SearchIcon from '@mui/icons-material/Search';
-// import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
-// import AccountBoxIcon from '@mui/icons-material/AccountBox';
-// import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
+import SearchIcon from '@mui/icons-material/Search';
+import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
+import AccountBoxIcon from '@mui/icons-material/AccountBox';
+import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 
 function Header() {
   return (
@@ -26,7 +26,7 @@ function Header() {
         </div>
         <div className="header-right">
           <ul>
-            {/* <li>
+            <li>
               <SearchIcon />
             </li>
             <li>
@@ -37,7 +37,7 @@ function Header() {
             </li>
             <li>
               <ArrowDropDownIcon />
-            </li> */}
+            </li>
           </ul>
         </div>
       </div>

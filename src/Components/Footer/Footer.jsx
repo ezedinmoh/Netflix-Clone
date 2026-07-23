@@ -1,15 +1,15 @@
 import "./Footer.css"
-// import FacebookOutlinedIcon from '@mui/icons-material/FacebookOutlined';
-// import InstagramIcon from '@mui/icons-material/Instagram';
-// import YouTubeIcon from '@mui/icons-material/YouTube';
+import FacebookOutlinedIcon from '@mui/icons-material/FacebookOutlined';
+import InstagramIcon from '@mui/icons-material/Instagram';
+import YouTubeIcon from '@mui/icons-material/YouTube';
 function Footer() {
   return (
     <div className="footer_outer_container">
       <div className="footer_inner_container">
         <div className="footer_icons">
-          {/* <FacebookOutlinedIcon />
+          <FacebookOutlinedIcon />
           <InstagramIcon />
-          <YouTubeIcon /> */}
+          <YouTubeIcon />
         </div>
         <div className="footer_data">
           <div>
