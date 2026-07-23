@@ -15,8 +15,10 @@
     "@mui/icons-material": "^9.2.0",
     "@mui/material": "^9.2.0",
     "axios": "^1.18.1",
+    "movie-trailer": "^3.2.3",
     "react": "^19.2.7",
-    "react-dom": "^19.2.7"
+    "react-dom": "^19.2.7",
+    "react-youtube": "^10.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

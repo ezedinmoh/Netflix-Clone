@@ -1,5 +1,4 @@
 import "./Header.css";
-// import Netflixlogo from "../../assets/vite.svg";
 import Netflixlogo from "../../assets/NetflixLogo.svg"
 import SearchIcon from '@mui/icons-material/Search';
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
