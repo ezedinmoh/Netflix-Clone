@@ -1,6 +1,6 @@
 import "./Header.css";
-import Netflixlogo from "../../assets/vite.svg";
-// import Netflixlogo from " .. / .. /assets/images/NetflixLogo.png"
+// import Netflixlogo from "../../assets/vite.svg";
+import Netflixlogo from "../../assets/NetflixLogo.svg"
 import SearchIcon from '@mui/icons-material/Search';
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
 import AccountBoxIcon from '@mui/icons-material/AccountBox';
@@ -15,7 +15,6 @@ function Header() {
             <li>
               <img src={Netflixlogo} alt="Netflix" width="100" />
             </li>
-            <li>Netflix</li>
             <li>Home</li>
             <li>TvShows</li>
             <li>Movies</li>
